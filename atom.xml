@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://constant137.github.io/</id>
     <title>常有话说</title>
-    <updated>2022-04-19T16:17:51.260Z</updated>
+    <updated>2022-04-19T16:20:18.545Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://constant137.github.io/"/>
     <link rel="self" href="https://constant137.github.io/atom.xml"/>
@@ -12,8 +12,8 @@
     <rights>All rights reserved 2022, 常有话说</rights>
     <entry>
         <title type="html"><![CDATA[Hello World!]]></title>
-        <id>https://constant137.github.io/post/firstone/</id>
-        <link href="https://constant137.github.io/post/firstone/">
+        <id>https://constant137.github.io/post/test/</id>
+        <link href="https://constant137.github.io/post/test/">
         </link>
         <updated>2022-04-20T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>众所周知，博客是博主的垃圾桶（x，博主会将他想说的想分享的事情统统倾倒在这里。</p>
